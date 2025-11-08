@@ -2,6 +2,8 @@
 
 Detect Hardhat, Mask, and Safety Vest on construction workers and classify compliance per worker (Green/Yellow/Red).
 
+Live Demo: https://ai-mlanddl-fa-2-jwal-patel.streamlit.app/
+
 ## What you get
 - `train.py` — YOLOv8 training script (Colab compatible)
 - `data.yaml` — example dataset config for YOLO training
